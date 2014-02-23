@@ -1,0 +1,9 @@
+Package: com.drewsdunne.nocarrier
+Name: NoCarrier
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Makes the carrier in the status bar blank.
+Maintainer: drewsdunne
+Author: drewsdunne
+Section: Tweaks
